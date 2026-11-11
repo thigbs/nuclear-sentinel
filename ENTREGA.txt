@@ -1,9 +1,11 @@
 SPRINT 1 - AMAZUL NUCLEAR SENTINEL
 
 Integrantes:
-- Nome Completo 1 - RM00000
-- Nome Completo 2 - RM00000
-- Nome Completo 3 - RM00000
+Pedro César de Camargo Branco - RM567971
+Renan Rodrigues de Matos Almeida-RM567952
+Thiago Garcia Batista Santos - RM568107
+Henry de Oliveira Vasconcellos - RM566836
+Nicolly Giroto Baptista - RM568204v
 
-Repositório GitHub: https://github.com/SEU-USUARIO/nuclear-sentinel
-Vídeo demonstrativo: https://youtu.be/SEU-VIDEO
+Repositório GitHub: https://github.com/thigbs/nuclear-sentinel
+Vídeo demonstrativo: https://www.youtube.com/watch?v=qsOGvBTr9lY
