@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Nuclear Sentinel",
+    "slug": "nuclear-sentinel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
